@@ -14,10 +14,12 @@ __Phone__ +374 (095) 369876
 [LinkedIn](https://www.linkedin.com/help/linkedin/?trk=p_settings_helpcenter_globalnav_android)
 
 [Drupal](https://www.drupal.org/user)
+
+[GitHub](https://github.com/aavetisian)
 ___
 ***About myself***
 
-Currently, I am working in `NOORLOGIC LLC` as content editor/`Drupal` developer since 10.03.22
+Currently, I am working in `NOORLOGIC LLC` as content editor/`Drupal` junior developer since 10.03.22. I decided to join `RSSchool` JavaScript/Front-end. Stage 0 classes to do my first steps as a web developer.
 ___
 ***Skills and Proficiency:***
 * MarkDown (basics)
