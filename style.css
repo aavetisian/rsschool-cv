@@ -1,0 +1,196 @@
+@font-face{
+    font-family: Trirong;
+    src: url(assets/fonts/trirong/Trirong-Light.ttf);
+}
+@font-face{
+    font-family: openSans;
+    src: url(assets/fonts/opensans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    background-color: rgb(6, 120, 190);
+    flex-grow: 1;
+}
+.menu{
+    
+    margin-left: 20px;
+    padding: 20px 0;
+    font-size: 18px;
+}
+
+.menu>ul>li>a{
+    font-family: openSans;
+    margin: 0 20px;
+    color: rgb(255, 255, 255);
+    
+}
+.menu>ul>li{
+    display: inline;
+}
+.profile{
+    display: flex;
+}
+.name{
+    margin-top: 60px;
+    color: rgb(6, 120, 190);
+}
+.name>h1, h2{
+    font-family: Trirong;
+    min-width: 300px;
+    margin-left: 40%;
+}
+.profile>img{
+    border-radius: 50%;
+    border: 1px solid rgb(124, 188, 72);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+}
+.line{
+    background-color: rgb(54, 125, 2);
+    height: 5px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section1{
+    display: flex;
+}
+.section2{
+    display: flex;
+}
+.section3{
+    display: flex;
+}
+.section4{
+    display: flex;
+}
+.about{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-family: openSans;
+}
+.contacts{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 180px;
+    
+}
+.contacts>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+
+.mail{
+    min-width: 220px;
+}
+.skills{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 160px;
+    margin-top: 20px;
+}
+.skills>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+.courses{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 280px;
+    margin-top: 20px;
+}
+.courses>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+.english{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 230px;
+    margin-top: 20px;
+}
+.english>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+.summary{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 230px;
+    margin-left: 180px;
+    
+}
+.summary>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+.code{
+    background-color: rgba(124, 188, 72, 0.46);
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 230px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.code>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+    
+}
+.education{
+    
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 230px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.education>h3{
+    color: rgb(6, 120, 190);
+    margin-bottom: 10px;
+}
+.projects{
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 230px;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.projects>h3{
+    color: rgb(6, 120, 190);
+}
+.footer>div>a>img{
+    width: 50px;
+    height: 50px;
+    
+}
+.footerInfo{
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-family: openSans;
+}
+
+.footer{
+    background-color: rgb(6, 120, 190);
+    flex-grow: 1;
+}
+.footerInfo>p{
+    
+    margin-top: 15px;
+    min-width: 500px;
+    margin-left: 30%;
+}
+.footerInfo>p>a{
+    color: rgb(255, 255, 255);
+}
